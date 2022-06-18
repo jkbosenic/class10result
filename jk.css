@@ -1,0 +1,105 @@
+.logo img{
+	padding-left: 480px;
+	width: 416px ;
+	display: flex;
+	
+}
+@media(max-width: 910px){
+	.logo img{
+		width: 416px;
+		padding: 0px;
+		padding-left: 40px;
+
+	}
+	
+
+}
+
+.search{
+	padding: 19px;
+	margin-left: 6px;
+}
+
+.rollno{
+	margin: 9px;
+	padding: 5px;
+}
+
+.code{
+	padding: 23px;
+}
+.number{
+	width: 27%;
+	margin-top: 7px;
+	margin-left: -8px;
+
+}
+
+.captcha{
+	padding: 4px;
+	margin: 14px;
+	margin-left: -1px;
+}
+
+
+
+.btn{
+	margin: 0px 650px ;
+	background: #3897f0;
+	border: 1px solid #3897f0 ;
+	border-radius: 4px;
+	text-align: center;
+	padding: 4px;
+}
+
+.btn a{
+	text-decoration: none;
+	color: #fff;
+	
+}
+
+@media(max-width: 
+	1400px){
+	.btn{
+	margin: 0px 70px ;
+	background: #3897f0;
+	border: 1px solid #3897f0 ;
+	border-radius: 4px;
+	text-align: center;
+	padding: 4px;
+}
+
+.btn a{
+	text-decoration: none;
+	color: #fff;
+	
+}
+}
+
+.prank{
+	font-size: 50px;
+	color: dodgerblue;
+	text-align: center;
+	padding: 29px;
+}
+
+.expect{
+	padding: 10px;
+
+}
+
+
+.by p{
+	text-align: center;
+	color: red;
+	font-size: 16px;
+}
+
+
+
+
+.button{
+	background-color: dodgerblue;
+	background: transparent;
+	border: 0px dodgerblue;
+}
